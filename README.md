@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Xie Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=2over&show_icons=true&theme=radical)
+![Xie Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=2over&show_icons=true&theme=radical&hide=contribs,prs,issues)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
