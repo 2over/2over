@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2over)](https://github.com/anuraghazra/github-readme-stats)
