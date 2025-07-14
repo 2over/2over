@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Xie Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=2over&show_icons=true&theme=radical&hide=contribs,prs,issues)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/2over/my-multicore-x64))
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2over)](https://github.com/anuraghazra/github-readme-stats)
