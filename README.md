@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2over&label=Profile%20views&color=0e75b6&style=flat" alt="2over" /> </p>
 
-- 🌱 I’m currently learning **JVM、Linux OS、Assembly Language**
+- 🌱 I’m currently learning **JVM、Linux OS、Assembly Language、Go、Rust、BlockChain**
 
 - 📝 I regularly write some articles on CSDN [https://blog.csdn.net/Cover_sky](https://blog.csdn.net/Cover_sky)
 
