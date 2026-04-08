@@ -29,30 +29,36 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2over&" alt="2over" /></p>
 
 
-
-
 ## My Pins
+### ☕ Java JVM
+| 项目 | 说明 | ⭐ |
+|------|------|----|
+| [XVM](https://github.com/2over/XVM) | Java 手写的 JVM | 29 |
+| [XVM-cpp](https://github.com/2over/XVM-cpp) | 手写 JVM 之 C++ 端 | 2 |
+| [my-agent](https://github.com/2over/my-agent) | Java 字节码增强 & 热更新 | 1 |
+| [netty-rpc](https://github.com/2over/netty-rpc) | 手写 RPC 框架 | 18 |
+| [my-aqs](https://github.com/2over/my-aqs) | 手写 AQS | 1 |
 
-### Java JVM
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=XVM)](https://github.com/2over/XVM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=XVM-cpp)](https://github.com/2over/XVM-cpp) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-agent)](https://github.com/2over/my-agent) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=netty-rpc)](https://github.com/2over/netty-rpc) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-aqs)](https://github.com/2over/my-aqs) 
-### Go
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-go-server)](https://github.com/2over/my-go-server)
+### 🐹 Go
+| 项目 | 说明 | ⭐ |
+|------|------|----|
+| [my-go-server](https://github.com/2over/my-go-server) | Go 协程、error、服务器启动 | 0 |
 
+### 🐧 Linux OS
+| 项目 | 说明 | ⭐ |
+|------|------|----|
+| [my-multicore-x64](https://github.com/2over/my-multicore-x64) | 手写多核 x64 操作系统 | 2 |
+| [my-x86-os](https://github.com/2over/my-x86-os) | 手写 x86 操作系统 | 2 |
 
-### Linux OS
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-multicore-x64)](https://github.com/2over/my-multicore-x64)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-x86-os)](https://github.com/2over/my-x86-os)
-### C/C++
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=nio-cpp)](https://github.com/2over/nio-cpp) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-sync)](https://github.com/2over/my-sync) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-three-color)](https://github.com/2over/my-three-color) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=template-interpreter-exec-flow)](https://github.com/2over/template-interpreter-exec-flow) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-memory-pool)](https://github.com/2over/my-memory-pool)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-threadpool)](https://github.com/2over/my-threadpool)
+### ⚙️ C/C++
+| 项目 | 说明 | ⭐ |
+|------|------|----|
+| [nio-cpp](https://github.com/2over/nio-cpp) | C++ 实现 Socket、Select、IO 多路复用 | 2 |
+| [my-sync](https://github.com/2over/my-sync) | 手写 synchronized | 3 |
+| [my-three-color](https://github.com/2over/my-three-color) | 手写三色标记算法 | 3 |
+| [template-interpreter-exec-flow](https://github.com/2over/template-interpreter-exec-flow) | 模板解释器执行流 | 2 |
+| [my-memory-pool](https://github.com/2over/my-memory-pool) | 手写 GC 算法（标记-清除/整理/复制） | 2 |
+| [my-threadpool](https://github.com/2over/my-threadpool) | C++ 手写线程池 | 3 |
 
 
 
