@@ -16,7 +16,42 @@
 <!-- <a href="https://twitter.com/xiho15282046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xiho15282046" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/hao-xie-a7277b2a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hao-xie-a7277b2a8/" height="30" width="40" /></a>
 
-  
+## Tech Stack
+
+### Backend
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+### AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-111111?style=flat&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FC6F03?style=flat&logo=anthropic&logoColor=white)
+
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=DD0031)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Middleware & Messaging
+
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=4EAA25)
+
 </p>
 
 
