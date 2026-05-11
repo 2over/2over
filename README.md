@@ -1,4 +1,4 @@
-<img width="106" height="106" alt="image" src="https://github.com/user-attachments/assets/50f81bb9-e2f8-49ca-beb2-7c5fa0031718" />
+
 <h1 align="center">Hi 👋, I'm Xie Hao</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2over&label=Profile%20views&color=0e75b6&style=flat" alt="2over" /> </p>
