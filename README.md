@@ -61,7 +61,7 @@
 
 </p>
 
-
+<!--
 ## My Pins
 ### ☕ Java JVM
 <a href="https://github.com/2over/XVM">
@@ -82,6 +82,11 @@
 
 <a href="https://github.com/2over/my-aqs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-aqs&theme=buefy" />
+</a>
+
+### Rust
+<a href="https://github.com/2over/solana-trader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=solana-trader&theme=buefy" />
 </a>
 
 ### 🐹 Go
@@ -122,5 +127,46 @@
 <a href="https://github.com/2over/my-threadpool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-threadpool&theme=buefy" />
 </a>
+-->
+## My Pins
 
+### ☕ Java JVM
+
+| 仓库 | 简介 | Stars |
+|------|------|-------|
+| [XVM](https://github.com/2over/XVM) | JVM / 字节码执行相关学习与实现 | ![stars](https://img.shields.io/github/stars/2over/XVM?style=flat&label=) |
+| [XVM-cpp](https://github.com/2over/XVM-cpp) | XVM 思路的 C++ 版实现/对照 | ![stars](https://img.shields.io/github/stars/2over/XVM-cpp?style=flat&label=) |
+| [my-agent](https://github.com/2over/my-agent) | Agent / 自动化相关实验项目 | ![stars](https://img.shields.io/github/stars/2over/my-agent?style=flat&label=) |
+| [netty-rpc](https://github.com/2over/netty-rpc) | 基于 Netty 的 RPC 示例或框架练习 | ![stars](https://img.shields.io/github/stars/2over/netty-rpc?style=flat&label=) |
+| [my-aqs](https://github.com/2over/my-aqs) | AQS 同步队列器学习与手写实现 | ![stars](https://img.shields.io/github/stars/2over/my-aqs?style=flat&label=) |
+
+### Rust
+
+| 仓库 | 简介 | Stars |
+|------|------|-------|
+| [solana-trader](https://github.com/2over/solana-copytrader) | Solana 链上交易 / 策略相关 Rust 项目 | ![stars](https://img.shields.io/github/stars/2over/solana-copytrader?style=flat&label=) |
+
+### 🐹 Go
+
+| 仓库 | 简介 | Stars |
+|------|------|-------|
+| [my-go-server](https://github.com/2over/my-go-server) | Go Web 服务模板或学习用服务端 | ![stars](https://img.shields.io/github/stars/2over/my-go-server?style=flat&label=) |
+
+### 🐧 Linux OS
+
+| 仓库 | 简介 | Stars |
+|------|------|-------|
+| [my-multicore-x64](https://github.com/2over/my-multicore-x64) | x64 多核引导 / 内核相关实验 | ![stars](https://img.shields.io/github/stars/2over/my-multicore-x64?style=flat&label=) |
+| [my-x86-os](https://github.com/2over/my-x86-os) | x86 操作系统学习与最小实现 | ![stars](https://img.shields.io/github/stars/2over/my-x86-os?style=flat&label=) |
+
+### ⚙️ C/C++
+
+| 仓库 | 简介 | Stars |
+|------|------|-------|
+| [nio-cpp](https://github.com/2over/nio-cpp) | C++ 网络 I/O / NIO 模型实践 | ![stars](https://img.shields.io/github/stars/2over/nio-cpp?style=flat&label=) |
+| [my-sync](https://github.com/2over/my-sync) | 锁、条件变量等同步原语练习 | ![stars](https://img.shields.io/github/stars/2over/my-sync?style=flat&label=) |
+| [my-three-color](https://github.com/2over/my-three-color) | 三色标记等并发 / GC 相关实验（按仓库实际主题改） | ![stars](https://img.shields.io/github/stars/2over/my-three-color?style=flat&label=) |
+| [template-interpreter-exec-flow](https://github.com/2over/template-interpreter-exec-flow) | 模板解释器与执行流程梳理 | ![stars](https://img.shields.io/github/stars/2over/template-interpreter-exec-flow?style=flat&label=) |
+| [my-memory-pool](https://github.com/2over/my-memory-pool) | 内存池设计与实现 | ![stars](https://img.shields.io/github/stars/2over/my-memory-pool?style=flat&label=) |
+| [my-threadpool](https://github.com/2over/my-threadpool) | 线程池实现与调度练习 | ![stars](https://img.shields.io/github/stars/2over/my-threadpool?style=flat&label=) |
 
