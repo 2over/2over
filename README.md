@@ -143,7 +143,7 @@
 | [XVM](https://github.com/2over/XVM) | JVM / 字节码执行相关学习与实现 | ![stars](https://img.shields.io/github/stars/2over/XVM?style=flat&label=) |
 | [XVM-cpp](https://github.com/2over/XVM-cpp) | XVM 思路的 C++ 版实现/对照 | ![stars](https://img.shields.io/github/stars/2over/XVM-cpp?style=flat&label=) |
 | [my-agent](https://github.com/2over/my-agent) | Agent / 自动化相关实验项目 | ![stars](https://img.shields.io/github/stars/2over/my-agent?style=flat&label=) |
-| [netty-rpc](https://github.com/2over/netty-rpc) | 基于 Netty 的 RPC 示例或框架练习 | ![stars](https://img.shields.io/github/stars/2over/netty-rpc?style=flat&label=) |
+| [netty-rpc](https://github.com/2over/netty-rpc) | 基于 Netty 实现的 RPC通信  | ![stars](https://img.shields.io/github/stars/2over/netty-rpc?style=flat&label=) |
 | [my-aqs](https://github.com/2over/my-aqs) | AQS 同步队列器学习与手写实现 | ![stars](https://img.shields.io/github/stars/2over/my-aqs?style=flat&label=) |
 
 ### 🦀 Rust
