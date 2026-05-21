@@ -102,7 +102,7 @@
 
 ### 🐍 Python
 <a href="https://github.com/2over/smart-contract-compile">
-  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=smart-contract-compile&theme=buefy&hide_border=false&v=3" />
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=smart-contract-compile&theme=buefy&hide_border=false&v2=3" />
 </a>
 
 <a href="https://github.com/2over/my-rag">
@@ -111,7 +111,7 @@
 
 ### 🦀Rust
 <a href="https://github.com/2over/solana-copytrader">
-  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=solana-copytrader&theme=buefy&hide_border=false&v=3" />
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=solana-copytrader&theme=buefy&hide_border=false&v2=3" />
 </a>
 
 ### 🐹 Go
