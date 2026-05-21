@@ -17,13 +17,23 @@
 <a href="https://www.linkedin.com/in/hao-xie-a7277b2a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hao-xie-a7277b2a8/" height="30" width="40" /></a>
 
 ## Stats
-<a href="https://github.com/2over/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=2over&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="2over's github stats"/>
+
+<a href="https://github.com/2over">
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api?username=2over&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&v=2" alt="2over's GitHub stats" />
+</a>
+
+<a href="https://github.com/2over">
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/top-langs/?username=2over&layout=compact&theme=buefy&hide_border=true&v=2" alt="2over's top languages" />
+</a>
+<!-- <a href="https://github.com/2over/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app
+/api?username=2over&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="2over's github stats"/>
 </a>
 
 <a href="https://github.com/2over/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2over&layout=compact&theme=buefy&hide_border=true" />
-</a>
+<img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app
+/api/top-langs/?username=2over&layout=compact&theme=buefy&hide_border=true" />
+</a> -->
 
 ## Tech Stack
 
@@ -67,73 +77,83 @@
 
 </p>
 
-<!--
 ## My Pins
+
 ### ☕ Java JVM
 <a href="https://github.com/2over/XVM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=XVM&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=XVM&theme=buefy&hide_border=false&v3=3" />
 </a>
 
 <a href="https://github.com/2over/XVM-cpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=XVM-cpp&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=XVM-cpp&theme=buefy&hide_border=false&v=3" />
 </a>
 
 <a href="https://github.com/2over/my-agent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-agent&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=my-agent&theme=buefy&hide_border=false&v=3" />
 </a>
 
 <a href="https://github.com/2over/netty-rpc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=netty-rpc&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=netty-rpc&theme=buefy&hide_border=false&v=3" />
 </a>
 
 <a href="https://github.com/2over/my-aqs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-aqs&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=my-aqs&theme=buefy&hide_border=false&v=3" />
 </a>
 
-### Rust
-<a href="https://github.com/2over/solana-trader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=solana-trader&theme=buefy" />
+### 🐍 Python
+<a href="https://github.com/2over/smart-contract-compile">
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=smart-contract-compile&theme=buefy&hide_border=false&v=3" />
+</a>
+
+<a href="https://github.com/2over/my-rag">
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=my-rag&theme=buefy&hide_border=false&v=3" />
+</a>
+
+### 🦀Rust
+<a href="https://github.com/2over/solana-copytrader">
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=solana-copytrader&theme=buefy&hide_border=false&v=3" />
 </a>
 
 ### 🐹 Go
 <a href="https://github.com/2over/my-go-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-go-server&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=my-go-server&theme=buefy&hide_border=false&v=3" />
 </a>
 
 ### 🐧 Linux OS
 <a href="https://github.com/2over/my-multicore-x64">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-multicore-x64&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=my-multicore-x64&theme=buefy&hide_border=false&v=3" />
 </a>
 
 <a href="https://github.com/2over/my-x86-os">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-x86-os&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=my-x86-os&theme=buefy&hide_border=false&v=3" />
 </a>
 
 ### ⚙️ C/C++
 <a href="https://github.com/2over/nio-cpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=nio-cpp&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=nio-cpp&theme=buefy&hide_border=false&v=3" />
 </a>
 
 <a href="https://github.com/2over/my-sync">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-sync&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=my-sync&theme=buefy&hide_border=false&v=3" />
 </a>
 
 <a href="https://github.com/2over/my-three-color">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-three-color&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=my-three-color&theme=buefy&hide_border=false&v=3" />
 </a>
 
 <a href="https://github.com/2over/template-interpreter-exec-flow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=template-interpreter-exec-flow&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=template-interpreter-exec-flow&theme=buefy&hide_border=false&v=3" />
 </a>
 
 <a href="https://github.com/2over/my-memory-pool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-memory-pool&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=my-memory-pool&theme=buefy&hide_border=false&v=3" />
 </a>
 
 <a href="https://github.com/2over/my-threadpool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2over&repo=my-threadpool&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=my-threadpool&theme=buefy&hide_border=false&v=3" />
 </a>
--->
+
+<!--
 ## My Pins
 
 ### ☕ Java JVM
@@ -182,3 +202,4 @@
 | [my-memory-pool](https://github.com/2over/my-memory-pool) | 内存池设计与实现 | ![stars](https://img.shields.io/github/stars/2over/my-memory-pool?style=flat&label=) |
 | [my-threadpool](https://github.com/2over/my-threadpool) | 线程池实现与调度 | ![stars](https://img.shields.io/github/stars/2over/my-threadpool?style=flat&label=) |
 
+-->
