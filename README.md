@@ -157,6 +157,7 @@
 | 仓库 | 简介 | Stars |
 |------|------|-------|
 | [smart-contract-compile](https://github.com/2over/smart-contract-compile) | 智能合约编译与 Slither 存储布局 | ![stars](https://img.shields.io/github/stars/2over/smart-contract-compile?style=flat&label=) |
+| [my-rag](https://github.com/2over/my-rag) | RAG智能文档 | ![stars](https://img.shields.io/github/stars/2over/my-rag?style=flat&label=) |
 ### 🐹 Go
 
 | 仓库 | 简介 | Stars |
