@@ -106,7 +106,7 @@
 </a>
 
 <a href="https://github.com/2over/my-rag">
-  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=my-rag&theme=buefy&hide_border=false&v=3" />
+  <img align="center" src="https://github-readme-stats-one-alpha-88.vercel.app/api/pin/?username=2over&repo=my-rag&theme=buefy&hide_border=false&v2=3" />
 </a>
 
 ### 🦀Rust
